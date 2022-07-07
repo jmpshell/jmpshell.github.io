@@ -71,13 +71,13 @@ html[data-theme="light"] {
 
 		&::after {
 			content: "";
-			width: 80px;
-			height: 80px;
+			width: 8px;
+			height: 8px;
 			border-radius: 50%;
 			margin: -4px 0px 0px -4px;
 			position: absolute;
 			top: 50%;
-			left: 50%;
+			left: 5%;
 			box-shadow: 0 -23px 0 var(--theme-ui-colors-toggleIcon, #2d3748),
 				0 23px 0 var(--theme-ui-colors-toggleIcon, #2d3748), 23px 0 0 var(--theme-ui-colors-toggleIcon, #2d3748),
 				-23px 0 0 var(--theme-ui-colors-toggleIcon, #2d3748),
