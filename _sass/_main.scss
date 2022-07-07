@@ -15,7 +15,7 @@ html {
 #theme-toggle {
 	opacity: 0.65;
 	position: relative;
-	border-radius: 1px;
+	border-radius: 5px;
 	height: 30px;
 	display: flex;
 	-webkit-box-align: center;
@@ -29,7 +29,7 @@ html {
 	cursor: pointer;
 	padding: 0px;
 	appearance: none;
-	transform: scale(0.20);
+	transform: scale(0.80);
 }
 
 html,
