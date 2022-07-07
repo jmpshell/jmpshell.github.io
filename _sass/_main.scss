@@ -47,7 +47,7 @@ html[data-theme="light"] {
 		position: relative;
 		width: 24px;
 		height: 24px;
-		border-radius: 100%;
+		border-radius: 50%;
 		border: none;
 		background-color: var(--theme-ui-colors-transparent, transparent);
 		transform: scale(1);
@@ -58,8 +58,8 @@ html[data-theme="light"] {
 		&::before {
 			content: "";
 			position: absolute;
-			right: -9px;
-			top: -9px;
+			right: -19px;
+			top: -19px;
 			height: 24px;
 			width: 24px;
 			border: none;
