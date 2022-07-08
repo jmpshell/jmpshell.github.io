@@ -1,10 +1,10 @@
-site: Asko
+site: JMPSHELL
 url: #yoururl
 title: Asko
-description: Simple and minimalistic jekyll blogging theme.
+description: 
 googlewebfonts: Fira+Code:wght@400;500;700
 twitter:
-  username: #yourusername
+  username: @raphaelmendonca
   card: summary
   creator: #yourusername
 author:
