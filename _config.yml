@@ -1,10 +1,10 @@
 site: jmpshell.net
-url: http://jmpshell.net
+url: #yoururl
 title: JMPSHELL
 description: 
 googlewebfonts: Fira+Code:wght@400;500;700
 twitter:
-  username: @raphaelmendonca
+  username: #yourusername
   card: summary
   creator: #yourusername
 author:
