@@ -32,8 +32,8 @@ sass:
 
 plugins:
  # - jekyll-paginate
- # - jekyll-seo-tag
- # - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 collections:
   pages:
